@@ -1,0 +1,66 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* Put sidebar below */
+aside#sidebar {
+	min-height: 0;
+	padding: 20px 0;
+	margin-top: 20px;
+	background-image: none;
+	border-top: solid 1px #ddd;
+}
+
+#main-content, aside#sidebar {
+	float: none;
+	width: 100%;
+}
+
+/* Ajust code colors */
+.highlight {
+	background-color: #333333;
+}
+
+pre {
+	border: 2px solid #777777;
+}
+
+pre code {
+	background: #333333;
+	color: #cccccc;
+}
+
+/* Ajust headers*/
+header {
+	padding-top: 25px;
+	padding-bottom: 15px;
+}
+
+header h1 {
+	width: 100%;
+	font-size: 64px;
+}
+
+header h2 {
+	width: 100%;
+	font-size: 32px;
+}
+
+#main-content h2 {
+	border-bottom: 1px solid #a2a9b1;	
+}
+
+#main-content h1:before, #main-content h2:before,  #main-content h3:before, #main-content h4:before{
+	content: ""; 
+	padding-right: inherit;
+	margin-left: inherit;
+}
+
+/* Alert box */
+.alert {
+	padding: 15px;
+	background-color: #f44336; /* Red */
+	color: white;
+	margin-bottom: 15px;
+}
