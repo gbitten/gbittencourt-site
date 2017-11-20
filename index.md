@@ -13,7 +13,9 @@ Consultoria e desenvolvimento especializado em:
 * Rádio Definido por Software
 
 ## Contato
-Facebook: https://www.facebook.com/GBittencourtConsultoria/
-Email: contato@gbittencourt.net
-Tel: (21) 98283-6692
+
+* Facebook: https://www.facebook.com/GBittencourtConsultoria/
+* Linkedin: https://www.linkedin.com/company/gbittencourt/
+* Email: contato@gbittencourt.net
+* Tel: (21) 98283-6692
 
