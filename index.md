@@ -1,14 +1,19 @@
-**Kernel notes** pages aims to register and share some of my understandings about Linux kernel and Linux on embedded systems. Technical comments and language corrections will be really appreciated.
+Construindo soluções que resolvem problemas para empresas e pessoas.
 
-## Notes
+## O que fazemos
 
-* [Compiling Preempt RT](compiling-preempt-rt)
-* [Ubuntu Base with QEMU](ubuntu-base-with-qemu)
-* [Embedded Linux From Scratch (Working in Progress)](ELFS-I)
-* [Kernel GPIO API (Working in Progress)](kernel-gpio-api)
-* [Preempt RT overview (Working in Progress)](preempt-rt-overview)
-* [Links](links)
+Consultoria e desenvolvimento especializado em:
 
-## Copyright
+* Linux (BSPs, device drives)
+* Sistemas embarcados
+* Sistemas operacionais de tempo real
+* Segurança da informação (análise de risco, robustecimento)
+* Software Communications Architecture (SCA)
+* Backend e frontend
+* Rádio Definido por Software
 
-All Kernel notes are under GPLv3 license and are available on [GitHub](https://github.com/gbitten/kernel-notes).
+## Contato
+Facebook: https://www.facebook.com/GBittencourtConsultoria/
+Email: contato@gbittencourt.net
+Tel: (21) 98283-6692
+
