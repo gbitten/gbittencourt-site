@@ -1,4 +1,4 @@
-Construindo soluções que resolvem problemas para empresas e pessoas.
+Somos uma consultoria de tecnologia da informação com a missão de construir soluções inteligentes e inovadoras para empresas e pessoas.
 
 ## O que fazemos
 
@@ -12,10 +12,8 @@ Consultoria e desenvolvimento especializado em:
 * Backend e frontend
 * Rádio Definido por Software
 
-## Contato
+## Nas redes sociais
 
-* Facebook: https://www.facebook.com/GBittencourtConsultoria/
-* Linkedin: https://www.linkedin.com/company/gbittencourt/
-* Email: contato@gbittencourt.net
-* Tel: (21) 98283-6692
+* [Facebook](https://www.facebook.com/GBittencourtConsultoria/)
+* [Linkedin](https://www.linkedin.com/company/gbittencourt/)
 
