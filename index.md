@@ -26,7 +26,7 @@ Consultoria no desenvolvimento de sistemas de software embarcados, Internet da C
 
 ## Artigos
 
-* [Segurança de Sistemas Embarcados e Internet da Coisas](artigos/seg-iot.md)
+* [Segurança de Sistemas Embarcados e Internet da Coisas](artigos/seg-iot)
 
 ## Nas redes sociais
 
