@@ -5,3 +5,7 @@ comments: true
 ---
 
 Está área é destinada a resgistrar verbetes, normalmente de cunho tecnológico, utilizado neste site.
+
+## Verbetes
+
+* [Sistema embarcado](sistema_embarcado.md)
