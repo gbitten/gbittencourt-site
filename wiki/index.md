@@ -1,6 +1,6 @@
 ---
-area: wiki
-title: Página princial 
+area: Wiki
+title: Wiki
 comments: true
 ---
 

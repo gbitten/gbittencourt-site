@@ -12,7 +12,7 @@
     <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
 
-    <title>{{ site.title | default: site.github.repository_name }} - {{ page.title }}</title>
+    <title>{{ site.title }} - {{ page.title }}</title>
   </head>
 
   <body>
@@ -22,6 +22,11 @@
           <h1>{{ site.title }}</h1>
         </a>
       </div>
+      <ul class="menu">
+        <li><a {% if page.area == "Página principal" %}class="active"{% endif %} href="/">Página principal</a></li>
+        <li><a {% if page.area == "Artigos" %}class="active"{% endif %} href="/artigos">Artigos</a></li>
+        <li><a {% if page.area == "Wiki" %}class="active"{% endif %} href="/wiki">Wiki</a></li>
+      </ul>
     </header>
 
     <div id="content-wrapper">

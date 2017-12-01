@@ -1,4 +1,5 @@
 ---
+area: Página principal
 title: Quem somos
 comments: false
 ---
@@ -23,10 +24,6 @@ Consultoria no desenvolvimento de sistemas de software embarcados, Internet da C
 * Sistemas operacionais de tempo real.
 * Desenvolvimento em Software Communications Architecture (SCA).
 * Desenvolvimento em C, C++, MATLAB, Java e Go.
-
-## Artigos
-
-* [Segurança de Sistemas Embarcados e Internet da Coisas](artigos/seg-iot)
 
 ## Nas redes sociais
 

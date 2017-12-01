@@ -34,7 +34,8 @@ pre code {
 /* Ajust headers*/
 header {
 	padding-top: 25px;
-	padding-bottom: 15px;
+	padding-bottom: 0;
+	border: 0;	
 }
 
 header h1 {
@@ -63,4 +64,35 @@ header h2 {
 	background-color: #f44336; /* Red */
 	color: white;
 	margin-bottom: 15px;
+}
+
+/* Menu */
+.menu {
+	list-style-type: none;
+    margin: 0;
+	padding: 0;
+    overflow: hidden;
+	background-color: transparent;
+	font-weight: bold;
+}
+
+.menu li {
+    float: left;
+}
+
+.menu li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 5px 16px 5px 16px;
+    text-decoration: none;
+}
+
+.menu a:hover:not(.active) {
+    background-color: #105998;
+}
+
+.menu li a.active {
+    color: darkgrey;
+    background-color: white;
 }

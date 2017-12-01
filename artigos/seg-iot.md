@@ -1,4 +1,5 @@
 ---
+area: Artigos
 title: Segurança de Sistemas Embarcados e Internet da Coisas 
 comments: true
 ---
