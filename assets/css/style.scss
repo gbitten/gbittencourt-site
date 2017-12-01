@@ -3,6 +3,11 @@
 
 @import "{{ site.theme }}";
 
+/* Eliminate “Jumps” in Horizontal Centering By Forcing a Scroll Bar */
+html {
+	overflow-y: scroll; 
+}
+
 /* Put sidebar below */
 aside#sidebar {
 	min-height: 0;
@@ -33,19 +38,24 @@ pre code {
 
 /* Ajust headers*/
 header {
-	padding-top: 25px;
+	padding-top: 15px;
 	padding-bottom: 0;
 	border: 0;	
 }
 
 header h1 {
 	width: 100%;
-	font-size: 64px;
+	font-size: 48px;
 }
 
 header h2 {
 	width: 100%;
 	font-size: 32px;
+}
+
+.inner {
+	margin-right: 10px;
+	margin-left: 10px;
 }
 
 #main-content h2 {

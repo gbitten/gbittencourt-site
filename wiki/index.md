@@ -1,7 +1,7 @@
 ---
 area: Wiki
 title: Wiki
-comments: true
+comments: false
 ---
 
 Está área é destinada a resgistrar verbetes, normalmente de cunho tecnológico, utilizado neste site.

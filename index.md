@@ -29,4 +29,3 @@ Consultoria no desenvolvimento de sistemas de software embarcados, Internet da C
 
 * [Facebook](https://www.facebook.com/GBittencourtConsultoria/)
 * [Linkedin](https://www.linkedin.com/company/gbittencourt/)
-
