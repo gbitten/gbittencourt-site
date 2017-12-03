@@ -1,7 +1,7 @@
 ---
 area: main
 ref: main
-title: Quem somos
+title: Who we are
 lang: en
 comments: false
 ---
