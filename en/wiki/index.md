@@ -2,7 +2,7 @@
 area: wiki
 ref: wiki
 title: Wiki
-lang: pt
+lang: en
 comments: false
 ---
 

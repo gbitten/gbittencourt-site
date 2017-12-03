@@ -18,22 +18,36 @@
   <body>
     <header>
       <div class="inner">
-        <a href="{{ '/' | absolute_url }}">
+        <a href={% if page.lang == "pt" %}"/"{% else %}"/{{page.lang}}/"{% endif %}> 
           <h1>{{ site.title }}</h1>
         </a>
       </div>
       <ul class="menu">
-        <li><a {% if page.area == "Página principal" %}class="active"{% endif %} href="/">Página principal</a></li>
-        <li><a {% if page.area == "Artigos" %}class="active"{% endif %} href="/artigos">Artigos</a></li>
-        <li><a {% if page.area == "Wiki" %}class="active"{% endif %} href="/wiki">Wiki</a></li>
+        {% if page.lang == "pt" %}
+        <li><a {% if page.area == "main" %}class="active"{% endif %} href="/">Página principal</a></li>
+        <li><a {% if page.area == "blog" %}class="active"{% endif %} href="/blog">Blog</a></li>
+        <li><a {% if page.area == "wiki" %}class="active"{% endif %} href="/wiki">Wiki</a></li>
+        {% elsif page.lang == "en" %}
+        <li><a {% if page.area == "main" %}class="active"{% endif %} href="/en/">Home page</a></li>
+        <li><a {% if page.area == "blog" %}class="active"{% endif %} href="/en/blog">Blog</a></li>
+        <li><a {% if page.area == "wiki" %}class="active"{% endif %} href="/en/wiki">Wiki</a></li>
+        {% endif %}        
       </ul>
     </header>
 
     <div id="content-wrapper">
       <div class="inner clearfix">
+        <ul class="lang-menu">
+          {% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %}
+          {% for pg in pages %}
+          <li>
+            {% if pg.lang == page.lang %}{{ pg.lang }}{% else %}<a href="{{ pg.url }}">{{ pg.lang }}</a>{% endif %}
+          </li>
+            {% endfor %}
+        </ul>    
         <section id="main-content">
           <h1>{{ page.title }}</h1>
-            {{ content }}
+          {{ content }}
           {% if page.comments %}
           <div id="disqus_thread"></div>
           <script>
@@ -53,7 +67,19 @@
         </section>
         <aside id="sidebar">
           {% if site.github.is_project_page %}
-          <p class="repo-owner" style="text-align:right;">End.: Rua Venâncio Veloso 144, sala 204<br>Email: contato@gbittencourt.net<br>Tel.: (21) 98283-6692</p>
+          <p class="repo-owner" style="text-align:right;">
+              {% if page.lang == "pt" %}
+              End.: Rua Venâncio Veloso 144, sala 204<br>
+              22790-420 - Rio de Janeiro - Brasil<br>
+              Email: consulting@gbittencourt.net<br>
+              Tel.: (21) 98283-6692
+              {% elsif page.lang == "en" %}
+              Addr.: Rua Venancio Veloso 144, sala 204<br>
+              22790-420 - Rio de Janeiro - Brazil<br>
+              Email: consulting@gbittencourt.net<br>
+              Phone: +55 21 98283-6692
+              {% endif %}  
+            </p>
           {% endif %}
         </aside>
       </div>

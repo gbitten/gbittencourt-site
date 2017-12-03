@@ -2,7 +2,7 @@
 area: wiki
 ref: iot
 title: Internet das Coisas
-lang: pt
+lang: en
 comments: true
 ---
 

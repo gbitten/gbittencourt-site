@@ -1,27 +1,28 @@
 ---
-area: Página principal
+area: main
+ref: main
 title: Quem somos
+lang: pt
 comments: false
 ---
 
-Somos uma consultoria em projetos de engenharia eletrônica, telecomunicações e de computação com a missão de construir soluções inteligentes e inovadoras para empresas e pessoas. 
+**GBittencourt Consulting** apoia clientes em projetos complexos de engenharia eletrônica, telecomunicações e de computação. Nossa missão é construir soluções inteligentes e inovadoras que verdadeiramente atendam as necessidades de nossos clientes. 
 
 ## O que fazemos
 
-Consultoria no desenvolvimento de sistemas de software embarcados, Internet da Coisas (IoT), Rádios de Definidos por Software:
+Consultoria no desenvolvimento de sistemas de software embarcados, Internet da Coisas (IoT), Rádios de Definidos por Software (RDS):
 
-* Definição de requisitos
-* Especificações técnicas
-* Definição da arquitetura de hardware e software
-* Definição de sistema operacional e tecnologias envolvida.
-* Definição das ferramentas de desenvolvimento.
+* Engenharia de requisitos.
+* Especificações técnicas.
+* Arquitetura de hardware e software.
+* Sistemas operacionais embarcados.
+* Sistemas operacionais de tempo real.
 * Revisão de código.
 * Robustecimento de segurança (Hardening) de hardware e software.
 * Testes de invasão e vulnerabilidade.
 * Otimização de desempenho.
 * Desenvolvimento em kernel Linux, Board Support Package (BSP) e Device Drives.
 * Integração de sistemas.
-* Sistemas operacionais de tempo real.
 * Desenvolvimento em Software Communications Architecture (SCA).
 * Desenvolvimento em C, C++, MATLAB, Java e Go.
 

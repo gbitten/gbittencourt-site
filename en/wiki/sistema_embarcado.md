@@ -2,7 +2,7 @@
 area: wiki
 ref: embedded
 title: Sistema embarcado 
-lang: pt
+lang: en
 comments: true
 ---
 

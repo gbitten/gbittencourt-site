@@ -1,6 +1,8 @@
 ---
-area: Artigos
-title: Artigos
+area: blog
+ref: blog
+title: Blog
+lang: pt
 comments: false
 ---
 
