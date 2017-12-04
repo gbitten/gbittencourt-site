@@ -5,3 +5,7 @@ show_downloads: false
 
 # Google services
 google_analytics: UA-97992983-2
+
+# Jekyll plugins
+plugins:
+  - jekyll-redirect-from

@@ -1,6 +1,6 @@
 ---
 area: main
-ref: main
+ref: index
 title: Who we are
 lang: en
 comments: false

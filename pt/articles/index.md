@@ -1,7 +1,7 @@
 ---
-area: blog
-ref: blog
-title: Blog
+area: articles
+ref: index
+title: Artigos
 lang: pt
 comments: false
 ---

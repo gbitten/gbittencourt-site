@@ -18,18 +18,18 @@
   <body>
     <header>
       <div class="inner">
-        <a href={% if page.lang == "pt" %}"/"{% else %}"/{{page.lang}}/"{% endif %}> 
+        <a href="/{{page.lang}}/"> 
           <h1>{{ site.title }}</h1>
         </a>
       </div>
       <ul class="menu">
         {% if page.lang == "pt" %}
-        <li><a {% if page.area == "main" %}class="active"{% endif %} href="/">Página principal</a></li>
-        <li><a {% if page.area == "blog" %}class="active"{% endif %} href="/blog">Blog</a></li>
-        <li><a {% if page.area == "wiki" %}class="active"{% endif %} href="/wiki">Wiki</a></li>
+        <li><a {% if page.area == "main" %}class="active"{% endif %} href="/pt/">Página principal</a></li>
+        <li><a {% if page.area == "articles" %}class="active"{% endif %} href="/pt/articles">Artigos</a></li>
+        <li><a {% if page.area == "wiki" %}class="active"{% endif %} href="/pt/wiki">Wiki</a></li>
         {% elsif page.lang == "en" %}
         <li><a {% if page.area == "main" %}class="active"{% endif %} href="/en/">Home page</a></li>
-        <li><a {% if page.area == "blog" %}class="active"{% endif %} href="/en/blog">Blog</a></li>
+        <li><a {% if page.area == "articles" %}class="active"{% endif %} href="/en/articles">Articles</a></li>
         <li><a {% if page.area == "wiki" %}class="active"{% endif %} href="/en/wiki">Wiki</a></li>
         {% endif %}        
       </ul>
@@ -38,7 +38,7 @@
     <div id="content-wrapper">
       <div class="inner clearfix">
         <ul class="lang-menu">
-          {% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %}
+          {% assign pages=site.pages | where:"ref", page.ref | where:"area", page.area | sort: 'lang' %}
           {% for pg in pages %}
           <li>
             {% if pg.lang == page.lang %}{{ pg.lang }}{% else %}<a href="{{ pg.url }}">{{ pg.lang }}</a>{% endif %}

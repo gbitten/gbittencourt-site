@@ -1,8 +1,8 @@
 ---
-area: blog
+area: articles
 ref: seg-iot
 title: Segurança de Sistemas Embarcados e Internet da Coisas
-lang: pt
+lang: en
 comments: true
 ---
 

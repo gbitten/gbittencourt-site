@@ -1,6 +1,6 @@
 ---
 area: wiki
-ref: wiki
+ref: index
 title: Wiki
 lang: en
 comments: false
