@@ -17,13 +17,13 @@ langs:
     label: Página principal
   - area: articles
     label: Artigos
-  - area: wiki
-    label: Wiki
+  - area: contact
+    label: Contato
 - id: en
   menu:
   - area: main
     label: Home page
   - area: articles
     label: Articles
-  - area: wiki
-    label: Wiki
+  - area: contact
+    label: Contact
