@@ -4,7 +4,9 @@ ref: index
 title: Quem somos
 lang: pt
 comments: false
-redirect_from: "/"
+redirect_from: 
+  - /
+  - /pt
 ---
 
 **GBittencourt Consulting** apoia clientes em projetos complexos de engenharia eletrônica, telecomunicações e de computação. Nossa missão é construir soluções inteligentes e inovadoras que verdadeiramente atendam as necessidades de nossos clientes. 

@@ -23,15 +23,13 @@
         </a>
       </div>
       <ul class="menu">
-        {% if page.lang == "pt" %}
-        <li><a {% if page.area == "main" %}class="active"{% endif %} href="/pt/">Página principal</a></li>
-        <li><a {% if page.area == "articles" %}class="active"{% endif %} href="/pt/articles">Artigos</a></li>
-        <li><a {% if page.area == "wiki" %}class="active"{% endif %} href="/pt/wiki">Wiki</a></li>
-        {% elsif page.lang == "en" %}
-        <li><a {% if page.area == "main" %}class="active"{% endif %} href="/en/">Home page</a></li>
-        <li><a {% if page.area == "articles" %}class="active"{% endif %} href="/en/articles">Articles</a></li>
-        <li><a {% if page.area == "wiki" %}class="active"{% endif %} href="/en/wiki">Wiki</a></li>
-        {% endif %}        
+        {% for lang in site.langs %}
+          {% if lang.id == page.lang %}
+            {% for menu in lang.menu %}
+            <li><a {% if page.area == menu.area %}class="active"{% endif %} href="/{{ lang.id }}/{{ menu.area }}/">{{ menu.label }}</a></li>
+            {% endfor %}            
+          {% endif %}        
+        {% endfor %}           
       </ul>
     </header>
 
