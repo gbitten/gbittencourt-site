@@ -6,6 +6,7 @@ lang: en
 comments: false
 redirect_from: 
   - /en
+  - /en/
 ---
 
 **GBittencourt Consulting** helps clients with  complex eletronic, telecommunications and computing projects. Your mission is to build intelligent and innovative solutions to meet the needs of our customers. 
