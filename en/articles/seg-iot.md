@@ -10,7 +10,7 @@ comments: true
 
 ## Embedded system
 
-**Embedded systems** are electronic and software systems that perform specific tasks, which make they different from general propose computers like smartphones, notebooks, desktops e servers. Every day, we make use of those devices without noticing, they are everywhere , they are doing almost everything. There are embedded systems in cars, TV, decoders, routers, switches, printers, radios, phones, etc.
+**Embedded systems** are electronic and software systems that perform specific tasks, which make they different from general propose computers like smartphones, notebooks, desktops e servers. Every day, we make use of those devices without noticing, they are everywhere and doing almost everything. There are embedded systems in cars, TV, decoders, routers, switches, printers, radios, phones, etc.
 
 ## Internet of Things 
 
