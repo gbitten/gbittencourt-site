@@ -1,12 +1,10 @@
 ---
 area: articles
 ref: seg-iot
-title: Security on Embedded Systems and Internet of Things
+title: Security on Embedded Systems and Internet of Things (part I)
 lang: en
 comments: true
 ---
-
-<div class="alert">Warning! This is an working in progress article and its content may be incomplete and inconsistent.</div>
 
 <img src="/img/iot.jpg" style="width: 400px" />
 

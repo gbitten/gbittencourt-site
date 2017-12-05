@@ -1,12 +1,10 @@
 ---
 area: articles
 ref: seg-iot
-title: Segurança de Sistemas Embarcados e Internet da Coisas
+title: Segurança de Sistemas Embarcados e Internet da Coisas (parte I)
 lang: pt
 comments: true
 ---
-
-<div class="alert">Alerta! Este artigo está em desenvolvimento e seu conteúdo pode estar incompleto ou inconsistente.</div>
 
 <img src="/img/iot.jpg" style="width: 400px" />
 

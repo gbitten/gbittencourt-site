@@ -6,4 +6,4 @@ lang: pt
 comments: false
 ---
 
-* [Segurança de Sistemas Embarcados e Internet da Coisas (em desenvolvimento)](seg-iot)
+* [Segurança de Sistemas Embarcados e Internet da Coisas (parte I)](seg-iot)
