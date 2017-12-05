@@ -8,6 +8,8 @@ comments: true
 
 <div class="alert">Alerta! Este artigo está em desenvolvimento e seu conteúdo pode estar incompleto ou inconsistente.</div>
 
+<img src="/img/iot.jpg" style="float: right;" width="400px" />
+
 ## Sistema embarcados
 
 **Sistemas embarcados** são sistemas eletrônicos e de software que realizam um conjunto de tarefas específicas, o que os difere dos computadores de propósito geral tais como smartphones, notebooks, desktops e servidores. No dia a dia, nos deparamos e muitas vez não percebemos com sistemas embarcados em todos os lugares e para inúmeros usos. Entre eles podemos citar celulares (os que não são smartphones), carros, televisões, decodificadores de TV a cabo, roteadores, switches, impressoras, rádios, telefones, entre outros.

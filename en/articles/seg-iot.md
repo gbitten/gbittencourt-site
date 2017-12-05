@@ -8,6 +8,8 @@ comments: true
 
 <div class="alert">Warning! This is an working in progress article and its content may be incomplete and inconsistent.</div>
 
+<img src="/img/iot.jpg" style="float: right;" width="400px" />
+
 ## Embedded system
 
 **Embedded systems** are electronic and software systems that perform specific tasks, which make they different from general propose computers like smartphones, notebooks, desktops e servers. Every day, we make use of those devices without noticing, they are everywhere and doing almost everything. There are embedded systems in cars, TV, decoders, routers, switches, printers, radios, phones, etc.
