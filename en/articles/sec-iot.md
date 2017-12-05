@@ -1,6 +1,6 @@
 ---
 area: articles
-ref: seg-iot
+ref: sec-iot
 title: Security on Embedded Systems and Internet of Things (part I)
 lang: en
 comments: true

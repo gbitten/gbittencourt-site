@@ -6,4 +6,6 @@ lang: pt
 comments: false
 ---
 
-* [Segurança de Sistemas Embarcados e Internet da Coisas (parte I)](seg-iot)
+* [Compilando o Preempt RT](compiling-preempt-rt)
+* [Ubuntu Base com QEMU](ubuntu-base-with-qemu)
+* [Segurança de Sistemas Embarcados e Internet da Coisas (parte I)](sec-iot)
