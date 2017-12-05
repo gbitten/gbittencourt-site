@@ -9,7 +9,8 @@ redirect_from:
   - /en/
 ---
 
-**GBittencourt Consulting** helps clients with  complex eletronic, telecommunications and computing projects. Your mission is to build intelligent and innovative solutions to meet the needs of our customers. 
+<img src="/img/logo.jpg" style="width: 300px"  />
+**GBittencourt Consulting** helps clients with  complex electronic, telecommunications and computing projects. Your mission is to build intelligent and innovative solutions to meet the needs of our customers. 
 
 ## What we do
 
@@ -17,11 +18,11 @@ Consulting on developing embedded systems, Internet of Things (IoT), Software De
 
 * Requirements engineering.
 * Technical specification.
-* Definição da arquitetura de hardware e software.
+* Hardware and software architecture.
 * Embedded operating systems.
 * Real-time Operating systems.
 * Code revision.
-* Softwarte and hardware hardening.
+* Software and hardware hardening.
 * Pen test e vulnerability test.
 * Software profiling.
 * Linux kernel development, Board Support Package (BSP) and Device Drives development.

@@ -10,6 +10,7 @@ redirect_from:
   - /pt/
 ---
 
+<img src="/img/logo.jpg" style="width: 300px"  />
 **GBittencourt Consulting** apoia clientes em projetos complexos de engenharia eletrônica, telecomunicações e de computação. Nossa missão é construir soluções inteligentes e inovadoras que verdadeiramente atendam as necessidades de nossos clientes. 
 
 ## O que fazemos

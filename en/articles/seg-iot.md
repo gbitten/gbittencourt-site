@@ -8,7 +8,7 @@ comments: true
 
 <div class="alert">Warning! This is an working in progress article and its content may be incomplete and inconsistent.</div>
 
-<img src="/img/iot.jpg" style="float: right;" width="400px" />
+<img src="/img/iot.jpg" style="width: 400px" />
 
 ## Embedded system
 

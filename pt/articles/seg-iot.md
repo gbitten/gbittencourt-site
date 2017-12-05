@@ -8,7 +8,7 @@ comments: true
 
 <div class="alert">Alerta! Este artigo está em desenvolvimento e seu conteúdo pode estar incompleto ou inconsistente.</div>
 
-<img src="/img/iot.jpg" style="float: right;" width="400px" />
+<img src="/img/iot.jpg" style="width: 400px" />
 
 ## Sistema embarcados
 
