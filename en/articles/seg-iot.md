@@ -1,28 +1,23 @@
 ---
 area: articles
 ref: seg-iot
-title: Segurança de Sistemas Embarcados e Internet da Coisas
+title: Security on Embedded Systems and Internet of Things
 lang: en
 comments: true
 ---
 
-<div class="alert">Alerta! Este artigo está em desenvolvimento e seu conteúdo pode estar incompleto ou inconsistente.</div>
+<div class="alert">Warning! This is an working in progress article and its content may be incomplete and inconsistent.</div>
 
-## Sistema embarcados
+## Embedded system
 
-**Sistemas embarcados** são sistemas eletrônicos e de software que realizam um conjunto de tarefas específicas, o que os difere dos computadores de propósito geral tais como smartphones, notebooks e desktops e servidores. No dia a dia, nos deparamos e muitas vez não percebemos com sistemas embarcados em todos os lugares e para inúmeros usos. Entre eles podemos citar celulares (os que não são smartphones), carros, televisões, decodificadores de TV a cabo, roteadores, switches, impressoras, rádios, telefones, entre outros.
+**Embedded systems** are electronic and software systems that perform specific tasks, which make they different from general propose computers like smartphones, notebooks, desktops e servers. Every day, we make use of those devices without noticing, they are everywhere , they are doing almost everything. There are embedded systems in cars, TV, decoders, routers, switches, printers, radios, phones, etc.
 
-## Internet das Coisas 
+## Internet of Things 
 
-**Internet das Coisas** (em inglês **Internet of Things** ou **IoT**) é uma rede de sistemas embarcados onde cada sistema é capaz de interoperar com a infraestrutura da Internet. Esta interoperação cria oportunidades de integração do mundo físico com sistemas computacionais. Por exemplo, um carro na Internet da Coisa poderia se comunicar com os carros próximos e com o sistema de controle de trânsito para tomar ações para reduzir o risco de acidente.
+**Internet of Things** (**IoT**) is a network of embedded systems where each system is able to interoperate with Internet infrastructure. Such capacity brings integration opportunities between computer systems and the real world.
 
-## Desafios
+## Security challenges
 
-Os desafios de segurança dos sistemas embarcados e da Internet das Coisas são similares aos dos computadores convencionais. Praticamente todas as técnicas de ataque a um computadores convencionais podem ser utilizadas para subverter sistemas embarcados, porem com um agravante, as limitações dos sistemas embarcados dificultam, ou até mesmo inviabilizam, a implementação de muitos dos controles de segurança.
-
-As maiores dificuldade enfrentadas na implantação de mecanismos de segurança em sistemas embarcados e na Internet das Coisas são as limitações de memória, de armazenamento e de processamento que estes dispositivos possuem. Alguns controles de segurança utilizados em computadores convencionais, tais como antivírus, IDS, e até mesmo alguns mecanismos de firewall e de criptografia mais complexos, exigem muitos recursos de memória, processamento e armazenamento que normalmente não estão disponíveis em sistemas embarcados, pois seus hardwares normalmente são muito limitados. Outra limitação é a interface entre o sistema e seus os usuários, essa interface (quando existe) é normalmente muito limitada o que dificulta bastante a implementação de controles de segurança que exijam interações com o usuário. Um exemplo disso é o processo de atualização de sistemas e instalação de patches de segurança.
-
-
-Os desafios de segurança dos [sistemas embarcados](/wiki/sistema_embarcado) e da [Internet das Coisas](/wiki/internet_das_coisas) são similares aos dos computadores convencionais. Praticamente todas as técnicas de ataque a um computadores convencionais podem ser utilizadas para subverter sistemas embarcados, porem com um agravante, as limitações dos sistemas embarcados dificultam, ou até mesmo inviabilizam, a implementação de muitos dos controles de segurança.
+The security challenges of embedded systems and of the IoT are similar to the conventional computers. Almost all attack technique used on conventional computers could be used to disrupt embedded systems. However, some embedded systems limitations make harder, or even unfeasible, the use of some common security controls.
 
 As maiores dificuldade enfrentadas na implantação de mecanismos de segurança em sistemas embarcados e na Internet das Coisas são as limitações de memória, de armazenamento e de processamento que estes dispositivos possuem. Alguns controles de segurança utilizados em computadores convencionais, tais como antivírus, IDS, e até mesmo alguns mecanismos de firewall e de criptografia mais complexos, exigem muitos recursos de memória, processamento e armazenamento que normalmente não estão disponíveis em sistemas embarcados, pois seus hardwares normalmente são muito limitados. Outra limitação é a interface entre o sistema e seus os usuários, essa interface (quando existe) é normalmente muito limitada o que dificulta bastante a implementação de controles de segurança que exijam interações com o usuário. Um exemplo disso é o processo de atualização de sistemas e instalação de patches de segurança.
