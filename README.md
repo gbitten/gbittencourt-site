@@ -48,7 +48,7 @@ Install Jekyll and other dependencies:
 bundle install
 ```
 
-## Run the site locally
+### Run the site locally
 
 ```terminal
 bundle exec jekyll serve
