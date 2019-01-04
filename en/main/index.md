@@ -1,7 +1,7 @@
 ---
 area: main
 ref: index
-title: Who we are
+title: About
 lang: en
 comments: false
 redirect_from: 

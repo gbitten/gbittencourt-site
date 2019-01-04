@@ -1,7 +1,7 @@
 ---
 area: main
 ref: index
-title: Quem somos
+title: Sobre
 lang: pt
 comments: false
 redirect_from: 

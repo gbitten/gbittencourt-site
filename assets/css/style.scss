@@ -46,7 +46,8 @@ header .inner {
 }
 
 #content-wrapper {
-    padding-top: 0;
+	padding-top: 0;
+	border-top: solid 1px #fafafa;
 }
 
 #main-content {
@@ -127,7 +128,7 @@ form button {
 
 .menu li a.active {
     color: darkgrey;
-    background-color: white;
+    background-color: #fafafa;
 }
 
 .lang-menu {
