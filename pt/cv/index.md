@@ -12,7 +12,7 @@ redirect_from:
 
 ## Gustavo Araujo Bittencourt
 
-Gerenciei grandes projetos e liderei grandes equipes. Codifico em C, C++, Go, JavaScript e Shell Script. Construi processos de tecnologia da informação, gerenciamento risk e de governança. Administrei grande orçamentos. Construi sistemas embarcados e atuei no desenvolvimento de sistemas de comunicações militares.
+Sou Engenheiro de Computação, tenho experiência na gestão de grandes projetos e e liderança de grandes equipes. Codifico nas linguagens C, C++, Go, JavaScript e Shell Script. Atuei na construção de processos de tecnologia da informação, gerenciamento de risco e de governança. Administrei grande orçamentos. Tenho larga experiência na construção de sistemas embarcados e no desenvolvimento de sistemas de comunicações militares.
 
 ## Educação
 
@@ -46,15 +46,16 @@ Principais projetos:
 
 #### Pesquisador Especialista - 06/2016 – 08/2017 - Rio de Janeiro, Brasil
 
-Responsible for integration of military telecommunication project. Wide range of technologies, including embedded systems, GPP and FPGA architectures, Analog and Digital Waveforms on HF e VHF, real-time operation systems, SCA (Software Communications Architecture), Corba, kernel development and C, C++, Java and Go languages.
+Integração de sistemas computacionais, eletrônicos, mecânicos e de telecomunicação em projeto de desenvolvimento de telecomunicação militar. Essa integração envolve diversas tecnologias, tais como, sistemas embarcados, arquiteturas GPP e FPGA, formas de onda analógicas e digitais em HF e VHF, sistemas operacionais de tempo real, plataforma SCA (Software Communications Architecture), Corba, desenvolvimento de kernel e desenvolvimentos nas linguagens C, C++, Java e Go.
 
 ### Modulo Security Solutions
 
 #### Gerente Regional - 07/2011 – 06/2012 - São Paulo, Brasil
 
-Responsible for R$ 8 million annual budget and EBTIDA recovery in São Paulo Office. Leadership of consulting team in São Paulo consisting of 4 project managers and about 60 consultants. Responsible for setting the budget in commercial proposals. Responsible for consultant project allocation. Responsible for financial and quality results of the projects.
+Responsável por um orçamento anual de R$ 8 milhões e a recuperação EBTIDA da Regional de São Paulo. Liderança de equipe de consultoria de São Paulo composta por quatro gerentes de projeto e cerca de 60 consultores. Responsável por definir o orçamento de propostas comerciais.
+Responsável pela alocação de projeto consultor. Responsável por resultados financeiros e qualidade dos projetos.
 
-Main projects:
+Principais projetos:
 
 - Business Continuity – EDP.
 - ISO 27001 certification – Fidelity.
@@ -65,38 +66,30 @@ Main projects:
 
 #### Gerente de Projeto - 03/2008 – 06/2011 - São Paulo, Brasil
 
-Management innovative projects in Modulo such as the first governance project (EcoRodovias) and the first compliance project (Itaú and Porto Seguro).
-Project Manager of information security and IT projects in a wide range of industries including Financial, Telecommunication, Energy, Retail, Govern, Industrials and Information Technology.
+Gestão de projetos inovadores pela Modulo, como o primeiro projeto de governança (EcoRodovias) e o primeiro projeto de compliance (Itaú e Porto Seguro). Gerente de Projetos de segurança da informação e projetos de TI em uma ampla gama de segmentos, incluindo Financeiro, Telecomunicações, Energia, Comércio, Governo, Indústria e Tecnologia da Informação.
 
-Main responsibilities:
+Principais responsabilidades:
 
-- Project planning and control.
-- Leadership of project team.
-- Relationship with client (during de project contract).
-- Project financial management.
-- Quality and SLA management; 
-- Prospects for new opportunities.
+- Planejamento e controle de projetos;
+- Liderança de equipes multidiciplinares;
+- Relacionamento com o cliente (durante a operação do contrato);
+- Gestão financeira do contrato (faturamento, margem, fluxo de caixa);
+- Gestão de qualidade e SLA;
+- Propecção de oportunidades.
 
-Main projects:
+Principais projetos:
 
 - Compliance automation – Porto Seguro.
-- Compliance and Internal Controls Management – EcoRodovias. 
+- Compliance and Internal Controls Management – EcoRodovias.
 - Business Continuity – Banco Toyota.
 - Information Security – TIM.
 - Risk Analysis of the Internet Banking – Banco de Tokyo.
 - Business Continuity – Camargo Correa.
-- Legal Compliance – Itaú.
+- Legal Compliance – Itaú. 
 
 #### Consultor Sênior - 09/2006 – 03/2008 - São Paulo, Brasil
 
-Responsible for process mapping in IT Security and Security Operations Center departments at TIM.
-
-Main activities:
-
-- Policies and Procedures elaboration.
-- Control test for compliance with Sarbanes Oxley.
-- Risk analysis for IT projects.
-- Leadership of Módulo’s team (6 consultants) at TIM in the last 6 months.
+Atuei como consultor na TIM Brasil. Fui responsável pelo mapeamento de processos da área de IT Security e do Security Operations Center (SOC). Elaborei políticas e procedimentos e realizei testes de controles de TI para conformidade com Sarbanes Oxley. Participei de análises de risco de projetos de TI.
 
 ### Politec
 
